@@ -46,6 +46,7 @@ GitHub team | [tool-registry](https://github.com/orgs/data2health/teams/tool-reg
 GitHub project | [data2health/projects/5](https://github.com/orgs/data2health/projects/5) | CD2H
 Google Folder | [Tool Registry Design](https://drive.google.com/drive/u/0/folders/1m_AJ0sqQLYXb8jqBXwBOQCI6icbhGH1C) | Sage Bionetworks
 Slack channel | [CD2H workspace / tool-registry](https://app.slack.com/client/T4SPTQGE7/C0105TZT7FH) | CD2H
+Figma | Coming soon | Sage Bionetworks
 
 Access to resources is limited to onboarded participants ([CD2H Onboarding Form](bit.ly/cd2h-onboarding-form)).
 
