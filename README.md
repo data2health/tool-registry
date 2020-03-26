@@ -48,7 +48,7 @@ Google Folder | [Tool Registry Design](https://drive.google.com/drive/u/0/folder
 Slack channel | [CD2H workspace / tool-registry](https://app.slack.com/client/T4SPTQGE7/C0105TZT7FH) | CD2H
 Figma | Coming soon | Sage Bionetworks
 
-Access to resources is limited to onboarded participants ([CD2H Onboarding Form](bit.ly/cd2h-onboarding-form)).
+Access to resources is limited to onboarded participants ([CD2H Onboarding Form](https://bit.ly/cd2h-onboarding-form)).
 
 ## Get involved
 
