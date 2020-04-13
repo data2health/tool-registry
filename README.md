@@ -32,7 +32,7 @@ James Eddy (@jaeddy) | Sage Bionetworks
 Members (github handle) | Site
 ----------|--------------|
 Thomas Schaffter (@tschaffter) | Sage Bionetworks
-Yooree Chae (@yooree) | Sage Bionetworks
+Yooree Chae (@ychae) | Sage Bionetworks
 James Eddy (@jaeddy) | Sage Bionetworks
 Justin Guinney (@jguinney) | Sage Bionetworks
 Tom Dillon (@tmdillon) | WashU
